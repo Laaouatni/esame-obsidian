@@ -1,0 +1,17 @@
+3 tipi di costruzione:
+- utensili di pezzo
+	- unico pezzo -> testa + stelo
+- utensili a placchetta 
+	- saldata
+		- sullo stelo
+		- acciaio (generalmente)
+	- fissata meccanicamente
+		- placchetta + portautensili
+		- vantaggio importante
+			- placchetta 
+				- sostituibile 
+				- ruotabile (utilizzando tutte le punte presenti)
+		- fissaggio meccanico
+			- viti
+			- staffe
+			- leve

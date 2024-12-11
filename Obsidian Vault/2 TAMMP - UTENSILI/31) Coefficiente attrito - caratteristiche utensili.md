@@ -1,0 +1,1 @@
+- - attrito <--> meno riscaldamento

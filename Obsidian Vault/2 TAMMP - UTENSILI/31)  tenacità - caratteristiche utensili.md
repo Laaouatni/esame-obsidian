@@ -1,0 +1,3 @@
+- resistere -> urti
+- rottura improvvisa tagliente
+	- taglio interrotto -> fresatura

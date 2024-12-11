@@ -1,0 +1,697 @@
+{
+  "main": {
+    "id": "79d98ac4b61d9bf0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8affe0505ebd206",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c59e8bd4445677f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 TAMMP - UTENSILI/2) Studio del processo della formazione dello truciolo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2) Studio del processo della formazione dello truciolo"
+            },
+            "group": "945658d4f1aaacac"
+          },
+          {
+            "id": "1ac74740e2e3cde3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "26) Usura per intaglio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "26) Usura per intaglio"
+            }
+          },
+          {
+            "id": "a20b00d4edb6257c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "27) Microfessurazione termica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "27) Microfessurazione termica"
+            }
+          },
+          {
+            "id": "723f22116dd92a9a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 TAMMP - UTENSILI/28) tipo usura - Scheggiatura.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "28) tipo usura - Scheggiatura"
+            }
+          },
+          {
+            "id": "edc667f4961d1629",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Screenshot_20241209_093207_Drive.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "Screenshot_20241209_093207_Drive"
+            }
+          },
+          {
+            "id": "f53239be91803c05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 TAMMP - UTENSILI/30) proprietà dei Materiali.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "30) proprietà dei Materiali"
+            }
+          },
+          {
+            "id": "3f00e48b82dfe557",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 TAMMP - UTENSILI/31)  tenacità - caratteristiche utensili.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "31)  tenacità - caratteristiche utensili"
+            }
+          },
+          {
+            "id": "bbf8377fdff3db47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 TAMMP - UTENSILI/31) resistenza usura - caratteristiche utensili.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "31) resistenza usura - caratteristiche utensili"
+            }
+          },
+          {
+            "id": "41c74beca2080206",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 TAMMP - UTENSILI/31)  Durezza a freddo - caratteristiche utensili.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "31)  Durezza a freddo - caratteristiche utensili"
+            }
+          },
+          {
+            "id": "82a72df3e6c19e04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 TAMMP - UTENSILI/31) resistenza usura - caratteristiche utensili.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "31) resistenza usura - caratteristiche utensili"
+            }
+          },
+          {
+            "id": "ca17dfeb8f60433d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 TAMMP - UTENSILI/30) proprietà dei Materiali.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "30) proprietà dei Materiali"
+            }
+          },
+          {
+            "id": "204537867604553a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 TAMMP - UTENSILI/31) resistenza usura - caratteristiche utensili.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "31) resistenza usura - caratteristiche utensili"
+            }
+          },
+          {
+            "id": "23de72e0bea5f3b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 TAMMP - UTENSILI/0) Formazione dello truciolo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0) Formazione dello truciolo"
+            }
+          },
+          {
+            "id": "787e8af8e40e336c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 TAMMP - UTENSILI/35) Materiali utensili.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "35) Materiali utensili"
+            }
+          },
+          {
+            "id": "05060fe910330b2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 TAMMP - UTENSILI/0) Formazione dello truciolo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0) Formazione dello truciolo"
+            }
+          },
+          {
+            "id": "5ef6b3ee8846ecf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 TAMMP - UTENSILI/37) grafico - relazione avanzamento e vt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "37) grafico - relazione avanzamento e vt"
+            }
+          },
+          {
+            "id": "051b12ba598a851a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 TAMMP - UTENSILI/0) Formazione dello truciolo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0) Formazione dello truciolo"
+            }
+          },
+          {
+            "id": "0973cb01a6555634",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 TAMMP - UTENSILI/39) classificazione - utensili CARBURI METALLICI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "39) classificazione - utensili CARBURI METALLICI"
+            }
+          },
+          {
+            "id": "e419ace5bf7b1064",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 TAMMP - UTENSILI/0) Formazione dello truciolo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0) Formazione dello truciolo"
+            }
+          },
+          {
+            "id": "5cc4b44f9ecc2c10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 TAMMP - UTENSILI/41) tipi materiali utensili.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "41) tipi materiali utensili"
+            },
+            "group": "c28dfb5408680d4b"
+          },
+          {
+            "id": "a72ac8668870cf2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 TAMMP - UTENSILI/41) metalli duri rivestiti - tipi metalli utensili.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "41) metalli duri rivestiti - tipi metalli utensili"
+            }
+          },
+          {
+            "id": "fbb48b1a365a4d3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 TAMMP - UTENSILI/3) Come viene creato il truciolo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3) Come viene creato il truciolo"
+            }
+          }
+        ]
+      },
+      {
+        "id": "26b5a9d280c2fffc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8373e5fd10592a26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 TAMMP - UTENSILI/2) Studio del processo della formazione dello truciolo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2) Studio del processo della formazione dello truciolo"
+            },
+            "group": "945658d4f1aaacac"
+          }
+        ]
+      },
+      {
+        "id": "e70bbcfd50d24405",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6e2ae36ebf51305",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 TAMMP - UTENSILI/2) Studio del processo della formazione dello truciolo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2) Studio del processo della formazione dello truciolo"
+            },
+            "group": "945658d4f1aaacac"
+          }
+        ]
+      },
+      {
+        "id": "e2bdee5bf871cf9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dff9fa39263a3545",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 TAMMP - UTENSILI/2) Studio del processo della formazione dello truciolo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2) Studio del processo della formazione dello truciolo"
+            },
+            "group": "945658d4f1aaacac"
+          }
+        ]
+      },
+      {
+        "id": "6cdadd169ec3ae0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c1528d627c3b9b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 TAMMP - UTENSILI/2) Studio del processo della formazione dello truciolo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2) Studio del processo della formazione dello truciolo"
+            },
+            "group": "945658d4f1aaacac"
+          }
+        ]
+      },
+      {
+        "id": "6cd10c0b30dbc4ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8e6de0a84ed57c6",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "2 TAMMP - UTENSILI/41) tipi materiali utensili.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.4807607676905123,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            },
+            "group": "c28dfb5408680d4b"
+          }
+        ]
+      },
+      {
+        "id": "05f8c6c339d03e61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26e9f13b18f3e6f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 TAMMP - UTENSILI/2) Studio del processo della formazione dello truciolo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2) Studio del processo della formazione dello truciolo"
+            },
+            "group": "945658d4f1aaacac"
+          }
+        ]
+      },
+      {
+        "id": "a58c69a1cd78d1a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aef553eae5566727",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 TAMMP - UTENSILI/2) Studio del processo della formazione dello truciolo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2) Studio del processo della formazione dello truciolo"
+            },
+            "group": "945658d4f1aaacac"
+          }
+        ]
+      },
+      {
+        "id": "333c00e47f4c8740",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "182d6dc8c3af1fa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 TAMMP - UTENSILI/2) Studio del processo della formazione dello truciolo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2) Studio del processo della formazione dello truciolo"
+            },
+            "group": "945658d4f1aaacac"
+          }
+        ]
+      },
+      {
+        "id": "37cbfc37aee0e578",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "346ea12099bef9ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 TAMMP - UTENSILI/2) Studio del processo della formazione dello truciolo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2) Studio del processo della formazione dello truciolo"
+            },
+            "group": "945658d4f1aaacac"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "904b7abd41f671f5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2ce97f31aa8a6afa",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "e7db69feea706047",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "0ab0e3cd1bbc46a7",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "88b1504aae8066d0",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "5aeb6d2a45fc9231",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3b403ccc9b905c09",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "2 TAMMP - UTENSILI/2) Studio del processo della formazione dello truciolo.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "bed2159fbfd6e02c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "2 TAMMP - UTENSILI/8) Classificazione Numero Taglienti (Geometria utensili).md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "94ae70f969fa5b10",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "2 TAMMP - UTENSILI/8) Classificazione Numero Taglienti (Geometria utensili).md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3c59e8bd4445677f",
+  "lastOpenFiles": [
+    "2 TAMMP - UTENSILI/0) Formazione dello truciolo.md",
+    "2 TAMMP - UTENSILI/24) tipo usura - usura per craterizzazione sul petto.md",
+    "2 TAMMP - UTENSILI/23) tipo usura - usura sul fianco del tagliente.md",
+    "2 TAMMP - UTENSILI/23) I Tipi di Usura.md",
+    "2 TAMMP - UTENSILI/22) Usura - Che cosa è.md",
+    "2 TAMMP - UTENSILI/22) SLIDE - Usura.md",
+    "2 TAMMP - UTENSILI/20) Sviluppo del calore.md",
+    "2 TAMMP - UTENSILI/19) Gamma, cosa succede se aumento o diminuisco (Angoli della sezione normale).md",
+    "2 TAMMP - UTENSILI/17) angoli di registrazione.md",
+    "2 TAMMP - UTENSILI/13) Angoli della sezione normale (Angoli caratteristici).md",
+    "2 TAMMP - UTENSILI/12) SLIDE - Angoli Caratteristici.md",
+    "2 TAMMP - UTENSILI/11) Classificazione tipo di costruzione (Geometria utensile).md",
+    "2 TAMMP - UTENSILI/10) Classificazione tipo di taglio (vista dall_alto) (Geometria degli utensili).md",
+    "2 TAMMP - UTENSILI/7) SLIDE - Geometria degli utensili.md",
+    "2 TAMMP - UTENSILI/5) Faccia superiore dell'utensile.md",
+    "2 TAMMP - UTENSILI/4) Deformazione del truciolo.md",
+    "2 TAMMP - UTENSILI/6) Tipi di truciolo.md",
+    "2 TAMMP - UTENSILI/6) SLIDE - tipi truciolo - zona di taglio.md",
+    "2 TAMMP - UTENSILI/3) Come viene creato il truciolo.md",
+    "2 TAMMP - UTENSILI/2) Studio del processo della formazione dello truciolo.md",
+    "2 TAMMP - UTENSILI/41) metalli duri rivestiti - tipi metalli utensili.md",
+    "2 TAMMP - UTENSILI/41) tipi materiali utensili.md",
+    "2 TAMMP - UTENSILI/35) Materiali utensili.md",
+    "2 TAMMP - UTENSILI/41) trattamento di rivestimento - metalli duri rivestiti.md",
+    "2 TAMMP - UTENSILI/8) Classificazione Numero Taglienti (Geometria utensili).md",
+    "2 TAMMP - UTENSILI/6) Zona di taglio.md",
+    "Screenshot_20241209_102043_Drive.jpg",
+    "Screenshot_20241209_101835_Drive 1.jpg",
+    "Screenshot_20241209_101835_Drive.jpg",
+    "Screenshot_20241209_101609_Drive.jpg",
+    "Screenshot_20241209_093207_Drive.jpg",
+    "Screenshot_20241209_093524_Drive 1.jpg",
+    "Screenshot_20241209_093531_Drive 2.jpg",
+    "Screenshot_20241209_093524_Drive.jpg",
+    "Screenshot_20241209_093531_Drive 1.jpg",
+    "Screenshot_20241209_093531_Drive.jpg"
+  ]
+}

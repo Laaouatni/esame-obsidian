@@ -3,7 +3,7 @@ formano diversi tipi di truciolo:
 
 1. **lungo continuo**
 	- materiali duttili
-	- +VT -> alte velocità di taglio
+	- (+ VT -> alte velocità di taglio
 2. **lamellare segmentato**
 	- acciai inossidabili
 	- deformazione plastica
@@ -14,15 +14,15 @@ formano diversi tipi di truciolo:
 		- ghisa -> materiale fragile
 		- materiali duttili
 			- lavorati a:
-				- - VT -> basse velocità di taglio
+				- (- VT -> basse velocità di taglio
 4. **discontinuo**
 	- generato da:
-		- + forze di strappamento elevate
+		- (+ forze di strappamento elevate
 	- esempi:
 		- superleghe
 5. **leggero**
 	- generato da:
-		- - forze di strappamento basse
+		- (- forze di strappamento basse
 	- esempi:
 		- alluminio
 6. **corto spaccato**

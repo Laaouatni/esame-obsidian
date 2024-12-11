@@ -6,7 +6,7 @@ Durante le lavorazioni
 
 -----
 
-Questo concetto si chiama deformazione
+Questo concetto si chiama **deformazione**
 
 ----
 

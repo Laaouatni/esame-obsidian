@@ -31,3 +31,6 @@
 		- (- coefficiente attrito 
 		- (- temperatura tagliente --> + conducibilità termica
 		- (+ parametri di taglio --> + VT
+
+
+*  (+) resistenza usura = (-) tenacità

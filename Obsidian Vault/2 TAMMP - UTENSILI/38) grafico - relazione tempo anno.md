@@ -1,1 +1,1 @@
-![[Screenshot_20241209_102043_Drive.jpg]]
+![[PNG tempo di tornitura.jpg]]

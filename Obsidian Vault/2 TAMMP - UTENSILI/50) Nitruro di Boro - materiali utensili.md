@@ -1,0 +1,1 @@
+![[PNG Nitruro di Boro.jpg]]

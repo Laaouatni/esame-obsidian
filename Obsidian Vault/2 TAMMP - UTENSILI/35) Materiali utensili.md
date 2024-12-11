@@ -1,1 +1,1 @@
-![[Screenshot_20241209_101609_Drive.jpg]]
+![[PNG materiali per utensili.jpg]]

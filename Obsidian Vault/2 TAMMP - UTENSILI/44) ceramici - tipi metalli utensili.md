@@ -1,0 +1,1 @@
+![[PNG 43) Ceramici.jpg]]

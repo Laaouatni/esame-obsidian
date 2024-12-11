@@ -1,2 +1,2 @@
 
-![[Screenshot_20241209_101835_Drive.jpg]]
+![[PNG velocita di intaglio, avanzamenti.jpg]]

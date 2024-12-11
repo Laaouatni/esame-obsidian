@@ -1,1 +1,4 @@
 - [[41) metalli duri rivestiti - tipi metalli utensili]]
+- [[43) SLIDE - Materiali ceramici]]
+- [[50) Nitruro di Boro - materiali utensili]]
+- [[52) Diamante Policristallino - materiali utensili]]

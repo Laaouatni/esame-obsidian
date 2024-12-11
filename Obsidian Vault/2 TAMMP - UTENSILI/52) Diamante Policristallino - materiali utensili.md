@@ -1,1 +1,0 @@
-![[PNG Diamante Policristallino PCD.jpg]]

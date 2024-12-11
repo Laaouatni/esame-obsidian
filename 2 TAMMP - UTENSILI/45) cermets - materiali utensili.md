@@ -1,0 +1,1 @@
+![[PNG 45) cermets.jpg]]

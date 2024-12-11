@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 TAMMP - UTENSILI/31) resistenza usura - caratteristiche utensili.md",
-                "mode": "source",
+                "file": "2 TAMMP - UTENSILI/6) Tipi di truciolo.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "31) resistenza usura - caratteristiche utensili"
+              "title": "6) Tipi di truciolo"
             }
           }
         ],
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 TAMMP - UTENSILI/31) resistenza usura - caratteristiche utensili.md",
+                "file": "2 TAMMP - UTENSILI/2) Studio del processo della formazione dello truciolo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 31) resistenza usura - caratteristiche utensili"
+              "title": "Backlinks for 2) Studio del processo della formazione dello truciolo"
             }
           },
           {
@@ -225,12 +225,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 TAMMP - UTENSILI/31) resistenza usura - caratteristiche utensili.md",
+                "file": "2 TAMMP - UTENSILI/2) Studio del processo della formazione dello truciolo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 31) resistenza usura - caratteristiche utensili"
+              "title": "Outgoing links from 2) Studio del processo della formazione dello truciolo"
             }
           },
           {
@@ -252,10 +252,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 TAMMP - UTENSILI/31) resistenza usura - caratteristiche utensili.md"
+                "file": "2 TAMMP - UTENSILI/2) Studio del processo della formazione dello truciolo.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 31) resistenza usura - caratteristiche utensili"
+              "title": "Outline of 2) Studio del processo della formazione dello truciolo"
             }
           }
         ]
@@ -272,47 +272,48 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "683b080cc6442a3c",
   "lastOpenFiles": [
+    "2 TAMMP - UTENSILI/6) SLIDE - tipi truciolo - zona di taglio.md",
+    "2 TAMMP - UTENSILI/5) Faccia superiore dell'utensile.md",
+    "2 TAMMP - UTENSILI/4) Deformazione del truciolo.md",
+    "2 TAMMP - UTENSILI/6) Tipi di truciolo.md",
+    "2 TAMMP - UTENSILI/3) Come viene creato il truciolo.md",
+    "2 TAMMP - UTENSILI/2) Studio del processo della formazione dello truciolo.md",
+    "2 TAMMP - UTENSILI/0) Formazione dello truciolo.md",
+    "Screenshot_20241209_093524_Drive 1.jpg",
+    "2 TAMMP - UTENSILI/PNG materiali per utensili.jpg",
     "2 TAMMP - UTENSILI/PNG Nitruro di Boro.jpg",
-    "2 TAMMP - UTENSILI/PNG Diamante Policristallino PCD.jpg",
+    "2 TAMMP - UTENSILI/PNG velocita di intaglio, avanzamenti.jpg",
+    "2 TAMMP - UTENSILI/PNG 52) Diamante Policristallino PCD.jpg",
+    "2 TAMMP - UTENSILI/PNG 45) cermets.jpg",
+    "2 TAMMP - UTENSILI/PNG 43) Ceramici.jpg",
+    "2 TAMMP - UTENSILI/PNG 43) Fabbricazione materiali ceramici.jpg",
+    "2 TAMMP - UTENSILI/PNG 47) Nitruri ceramici e Ceramici Rinforzati.jpg",
+    "2 TAMMP - UTENSILI/31) resistenza usura - caratteristiche utensili.md",
     "2 TAMMP - UTENSILI/41) tipi materiali utensili.md",
     "2 TAMMP - UTENSILI/52) Diamante Policristallino - materiali utensili.md",
     "2 TAMMP - UTENSILI/50) Nitruro di Boro - materiali utensili.md",
     "PNG Diamante Policristallino PCD.jpg",
-    "CamScanner 11-12-2024 14.17_2.jpg",
-    "PNG Nitruro di Boro.jpg",
     "2 TAMMP - UTENSILI/47) Nitruri ceramici - materiali utensili.md",
     "2 TAMMP - UTENSILI/45) cermets - materiali utensili.md",
     "2 TAMMP - UTENSILI/44) ceramici - tipi metalli utensili.md",
     "2 TAMMP - UTENSILI/43) SLIDE - Materiali ceramici.md",
     "2 TAMMP - UTENSILI/41) trattamento di rivestimento - metalli duri rivestiti.md",
     "2 TAMMP - UTENSILI/43) Fabbricazione - materiali ceramici.md",
-    "2 TAMMP - UTENSILI/PNG 43) Fabbricazione materiali ceramici.jpg",
-    "Screenshot_20241209_093524_Drive 1.jpg",
     "2 TAMMP - UTENSILI/47) Ceramici Rinforzati - materiali utensili.md",
     "2 TAMMP - UTENSILI/41) metalli duri rivestiti - tipi metalli utensili.md",
-    "2 TAMMP - UTENSILI/PNG 3) piano di scorrimento esempio con pezzo circolare al tornio.png",
-    "2 TAMMP - UTENSILI/PNG 47) Nitruri ceramici e Ceramici Rinforzati.jpg",
-    "2 TAMMP - UTENSILI/PNG cermets.jpg",
-    "2 TAMMP - UTENSILI/PNG materiali per utensili.jpg",
-    "2 TAMMP - UTENSILI/5) Faccia superiore dell'utensile.md",
     "2 TAMMP - UTENSILI/22) SLIDE - Usura.md",
     "2 TAMMP - UTENSILI/31) Conducibilità termica - caratteristiche utensili.md",
     "2 TAMMP - UTENSILI/31) Durezza a caldo - caratteristiche utensili.md",
-    "2 TAMMP - UTENSILI/31) resistenza usura - caratteristiche utensili.md",
     "Welcome.md",
     "2 TAMMP - UTENSILI/8) Classificazione Numero Taglienti (Geometria utensili).md",
     "2 TAMMP - UTENSILI/7) SLIDE - Geometria degli utensili.md",
     "2 TAMMP - UTENSILI/6) Zona di taglio.md",
-    "2 TAMMP - UTENSILI/6) Tipi di truciolo.md",
-    "2 TAMMP - UTENSILI/6) SLIDE - tipi truciolo - zona di taglio.md",
-    "2 TAMMP - UTENSILI/4) Deformazione del truciolo.md",
-    "2 TAMMP - UTENSILI/39) classificazione - utensili CARBURI METALLICI.md",
-    "2 TAMMP - UTENSILI/38) grafico - relazione tempo anno.md",
     "2 TAMMP - UTENSILI"
   ]
 }
